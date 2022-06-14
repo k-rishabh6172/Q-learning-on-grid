@@ -166,6 +166,7 @@ Printing the shortest path
 print(get_shortest_path(4, 0))
 ```
 
-Group members: Kondury Rishabh (201020425), Bhavesh Ajwani (201020425)
+Group members: Kondury Rishabh (201020425), Bhavesh Ajwani (201020409)
+
 Branch: DSAI
 
